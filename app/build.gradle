@@ -3,7 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.simplenotetakingapp.bonto.simple_note_taking_app2"
+=======
+        applicationId "com.notes.bonto.simple_note_taking_app"
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
         minSdkVersion 22
         targetSdkVersion 28
         versionCode 1

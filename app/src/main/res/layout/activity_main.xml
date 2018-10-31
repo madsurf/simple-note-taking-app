@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <ListView
+<<<<<<< HEAD
         android:id="@+id/notes_list"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -17,5 +18,12 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+=======
+        android:layout_width="387dp"
+        android:layout_height="537dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
         app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>

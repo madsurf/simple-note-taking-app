@@ -3,7 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/save_note"
+<<<<<<< HEAD
         android:title="Save Note"
         android:icon="@drawable/ic_action_save"
         app:showAsAction="always"/>
+=======
+        android:title="Save_Note"
+        android:icon="@drawable/ic_action_save"
+        app:showAsAction="always"
+        />
+
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
 </menu>

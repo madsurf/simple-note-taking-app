@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".NotesActivity">
 
+<<<<<<< HEAD
     <EditText
         android:id="@+id/note_title"
         android:layout_width="0dp"
@@ -35,4 +36,35 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/note_title" />
+=======
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Notes"
+        android:inputType="textPersonName"
+        android:text="Tittle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.316"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText2" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="379dp"
+        android:layout_height="38dp"
+        android:ems="10"
+        android:hint="Title"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp" />
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
 </android.support.constraint.ConstraintLayout>

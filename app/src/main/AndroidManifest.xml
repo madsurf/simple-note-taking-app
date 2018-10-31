@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.simplenotetakingapp.bonto.simple_note_taking_app2">
+=======
+    package="com.notes.bonto.simple_note_taking_app">
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
 
     <application
         android:allowBackup="true"
@@ -16,6 +20,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
+        <activity android:name=".NotesActivity"></activity>
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
     </application>
 
 </manifest>

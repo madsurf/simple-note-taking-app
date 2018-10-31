@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Simple Note Taking App</string>
 </resources>
+=======
+    <string name="app_name">Simple-note-taking-app</string>
+</resources>
+>>>>>>> 396a300ea24b64e204bba7bf44e84c811bdd10e7
